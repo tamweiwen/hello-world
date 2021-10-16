@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+im doms. I like many things. I'm impulsive and i dont like it.
